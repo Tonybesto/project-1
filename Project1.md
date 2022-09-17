@@ -1,4 +1,12 @@
 ## Documentation for Project 1
+
+Before launching the Ubuntu virtual machine we need to install some dependencies on our local machine 
+
+- [Install OpenSSH](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=powershell#tabpanel_1_powershell)
+
+- [OpenSSH Key Management](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation)
+
+
 After launching the Ubuntu Virtual machine on AWS Account, Update it using;
 
 **`sudo apt update`**
