@@ -1,2 +1,2 @@
-# Darey.io project-1
-For Project-1
+# AWS-LAMP-STACK-PROJECT-1
+LAMP Stack Implementation Using AWS
