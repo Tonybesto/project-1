@@ -69,3 +69,21 @@ To exit the MySQL console, type:
 
 ## ....................................... Installing PHP ...........................................
 ---
+
+
+We will install 3 packages namely php, libapache2-mod-php, php-mysql. run this command to install all packages listed.
+
+**`sudo apt install php libapache2-mod-php php-mysql`**
+
+Confirm the php version
+
+**`php -v`**
+
+![Php version](./Images/PHP%20Version.PNG)
+
+At this point we have successfully installed all 4 applications that make up the lamp stack
+
+- [x] Linux
+- [x] Apache Http Server
+- [x] MySQL
+- [x] PHP
